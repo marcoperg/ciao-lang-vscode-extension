@@ -5,7 +5,7 @@ export function activate(context: vscode.ExtensionContext) {
 	let t: vscode.Terminal;
 
 	const run = vscode.commands.registerCommand('ciao-prolog.run', () => {
-		vscode.window.showInformationMessage('Runing with ciao');
+		vscode.window.showInformationMessage('Runing with ciao HOLA');
 		if (t) {
 			t.dispose();
 		}
