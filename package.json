@@ -2,6 +2,7 @@
   "name": "ciao-prolog",
   "displayName": "Ciao Prolog",
   "description": "Run interpreter for ciao-prolog form vscode",
+  "publisher": "MarcoPerezGonzalez",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.73.0"
