@@ -31,7 +31,6 @@
     "commands": [
       {
         "command": "ciao-prolog.run",
-        "when": "resourceLangId == prolog",
         "title": "Run with ciao",
         "group": "navigation@1",
         "icon": "$(play)"
