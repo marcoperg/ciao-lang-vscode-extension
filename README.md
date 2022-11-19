@@ -1,10 +1,10 @@
 # Ciao prolog execution extension
 
-This extension allows for automatic execution of scrips in written in ciao
+This extension allows for automatic execution of scripts written in ciao
 prolog.
 
 Clicking the run button on the top left of the vscode window opens a terminal
-with the ciao interactive interpreter and imports de module being edited.
+with the ciao interactive interpreter and imports the module being edited.
 
 ## Requirements
 This extension requires the ciao compiler and toplevel/debugger to be available on your system.
