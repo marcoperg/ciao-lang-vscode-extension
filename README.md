@@ -1,5 +1,14 @@
 # Ciao prolog execution extension
 
+## ⚠️  Deprecated
+
+This repository is no longer maintained.
+Please use the [official newer version](https://marketplace.visualstudio.com/items/?itemName=ciao-lang.ciao-prolog-vsc) instead.
+
+We recommend migrating to the new repository to benefit from the latest features, updates, and security patches.
+
+
+
 This extension allows for automatic execution of scripts written in ciao
 prolog.
 
